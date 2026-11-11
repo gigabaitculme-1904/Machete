@@ -219,4 +219,4 @@ Machete is available as a complete free version with all features and updates in
 Ready to start editing? Click the button above and download Machete for free today!
 
 ---
-**Last updated:** 2026-11-10 20:15:04 UTC
+**Last updated:** 2026-11-11 01:01:47 UTC
